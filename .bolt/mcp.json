@@ -1,7 +1,0 @@
-{
-  "mcpServers": {
-    "sentry": {
-      "enabled": true
-    }
-  }
-}
